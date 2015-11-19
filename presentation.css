@@ -44,6 +44,8 @@ img{
 
 .logo{
   float: left;
+  font-size: 250%;
+  color: orange;
 }
 
 .ligne2 ul li{
