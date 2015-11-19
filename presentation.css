@@ -8,9 +8,13 @@ height: 50px;
 
 .contact {
 float: left;
+word-spacing: 3px;
+
+
   }
 .share {
   float: right;
+  
 }
 
 .ligne1 ul {
@@ -19,4 +23,12 @@ float: left;
 
 .ligne1 ul li {
   float: left;
+}
+
+.share img {
+  margin-left: 40px;
+}
+
+img{
+  margin-left: 10px;
 }
