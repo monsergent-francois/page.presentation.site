@@ -14,7 +14,7 @@ word-spacing: 3px;
   }
 .share {
   float: right;
-  
+
 }
 
 .ligne1 ul {
@@ -31,4 +31,21 @@ word-spacing: 3px;
 
 img{
   margin-left: 10px;
+}
+
+.ligne2 ul {
+  list-style-type: none;
+}
+
+.nav {
+  float: right;
+
+}
+
+.logo{
+  float: left;
+}
+
+.ligne2 ul li{
+  display: inline-flex;
 }
