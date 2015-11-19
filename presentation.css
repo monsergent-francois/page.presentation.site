@@ -47,8 +47,16 @@ img{
   font-size: 250%;
   color: orange;
   font-weight: bold;
+
 }
 
 .ligne2 ul li{
   display: inline-flex;
+}
+
+.ligne3{
+  width: 300px;
+  height: 300px;
+  background-color: black;
+  position: absolute;
 }
